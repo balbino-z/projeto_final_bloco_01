@@ -1,6 +1,6 @@
 # Thg Imports
 
-Este é o projeto final Java da Generation Brasil.
+Este é o projeto final  do bloco 1 de Java da Generation Brasil.
 
 ## 🛒 Descrição
 
