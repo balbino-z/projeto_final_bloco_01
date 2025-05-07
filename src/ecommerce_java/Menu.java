@@ -60,19 +60,19 @@ public class Menu {
 
                 case 3:
                     System.out.println("\nBuscar Produto por Nome\n");
-                    // Aqui vamos implementar a função de buscar produtos por nome na próxima etapa
+                    // falta implementar a acao concreta
                     keyPress();
                     break;
 
                 case 4:
                     System.out.println("\nCamisas Retrô\n");
-                    // Aqui vamos implementar a função de listar camisas retrô na próxima etapa
+                    // falta implementar a acao concreta
                     keyPress();
                     break;
 
                 case 5:
                     System.out.println("\nCamisas de Times da La Liga\n");
-                    // Aqui vamos implementar a função de listar camisas da La Liga na próxima etapa
+                    // falta implementar a acao concreta
                     keyPress();
                     break;
 
