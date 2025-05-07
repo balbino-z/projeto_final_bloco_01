@@ -1,9 +1,9 @@
 package ecommerce_java;
 
-// Classe abstrata Produto (classe principal)
+// classe abstrata Produto (classe principal)
 public abstract class Produto {
     
-    // Atributos
+    // atributos
     private int id;
     private String nome;
     private String time;
@@ -11,7 +11,7 @@ public abstract class Produto {
     private String tamanho;
     private float preco;
     
-    // Construtor
+    // construtor
     public Produto(int id, String nome, String time, String liga, String tamanho, float preco) {
         this.id = id;
         this.nome = nome;
@@ -70,6 +70,6 @@ public abstract class Produto {
         this.preco = preco;
     }
     
-    // Método abstrato que será implementado nas subclasses
+   // método abstrato das subclasses
     public abstract void visualizar();
 }

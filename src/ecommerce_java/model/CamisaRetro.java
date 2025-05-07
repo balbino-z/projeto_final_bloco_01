@@ -21,7 +21,7 @@ public class CamisaRetro extends Produto {
         this.anoLancamento = anoLancamento;
     }
     
-    // implementação do método visualizar (sobrescrita)
+    // implementação do método visualizar
     @Override
     public void visualizar() {
         System.out.println("\n***********************************************************");
