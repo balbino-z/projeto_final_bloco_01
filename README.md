@@ -15,9 +15,9 @@ O **Thg Imports** é um e-commerce de importação de camisas de time e roupas.
 ## ✅ Status
 
 - [x] Inicialização do projeto
-- [ ] Menu
-- [ ] Model & Repository
-- [ ] Controller
+- [x] Menu
+- [x] Model & Repository
+- [x] Controller
 
 ## 🔗 Repositório
 
